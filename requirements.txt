@@ -1,0 +1,5 @@
+heapdict==1.0.1
+numpy==1.25.0
+matplotlib==3.4.3
+scipy==1.13.1
+imageio==2.9.0
